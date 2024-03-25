@@ -1,0 +1,1 @@
+It contains files of basic python: Set tuples, dict, functions, lambda, filter, map, reduce, OOPS, files multithreading, multiprocessing,database, flask, web scraping, image scraping, pandas and numpy.
